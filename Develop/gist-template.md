@@ -1,4 +1,4 @@
-# Understanding the Regular Expression for Matching an Email Address
+# Understanding the RegEx for Matching an Email Address
 
 Regular expressions are a powerful tool for pattern matching, searching, filtering, and manipulating text, they are widely used in programming. Regular Expressions provide a concise and flexible way to define patterns in strings. An email address is a common pattern that can be matched using regular expressions. In this tutorial, we will explore the general regex components that are used for matching an email address.
 
